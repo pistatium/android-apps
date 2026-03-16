@@ -24,4 +24,4 @@
     * SYSTEM_ALERT_WINDOW: オーバーレイのために必要
     * INTERNET: 通信のために必要
 * version: 1.0
-* DL:   [最新版 APK をダウンロード](https://github.com/pistatium/android-apps/releases/latest/download/ukabumado-v1.0.apk)
+* DL:   [最新版 APK をダウンロード](https://github.com/pistatium/android-apps/raw/refs/heads/main/assets/apk/ukabumado-v1.0.apk)
