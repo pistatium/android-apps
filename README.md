@@ -19,13 +19,18 @@
 
 * フローティングで前画面に張り付いて使えるブラウザアプリ
 * ブラウザで参考画像を表示しながら絵を描くときなどに便利です
+* 初回セットアップ画面と使い方ページつきで、最初の起動手順を分かりやすくしています
 * 左上のメニューをドラッグすることでウィンドウサイズを変えられます
 * 広告なし
     * 表示先のWebページの広告はそのまま表示されます
-* お気に入り機能、マルチタブ、
+* お気に入り機能、マルチタブ
 * フローティング表示のため最初に権限設定が必要です
 * 権限
     * SYSTEM_ALERT_WINDOW: オーバーレイのために必要
     * INTERNET: 通信のために必要
-* version: 1.0
-* DL:   [最新版 APK をダウンロード](https://github.com/pistatium/android-apps/raw/refs/heads/main/assets/apk/ukabumado-v1.0.apk)
+* version: 1.1.0
+* リリースノート
+    * 初回セットアップ画面を追加し、権限案内と起動導線を整理しました
+    * オーバーレイメニューから使い方ページを開けるようにしました
+    * URL入力や表示まわりを見直し、使い勝手を改善しました
+* DL:   [最新版 APK をダウンロード](https://github.com/pistatium/android-apps/raw/refs/heads/main/assets/apk/ukabumado-v1.1.0.apk)
